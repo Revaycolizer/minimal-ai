@@ -115,8 +115,8 @@ Icon=utilities-terminal
 Terminal=true
 Type=Application
 Categories=Utility;
-Make it executable:
 ```
+Make it executable:
 ```bash
 chmod +x ~/.local/share/applications/minimal-ai.desktop
 ```
